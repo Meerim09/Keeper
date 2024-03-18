@@ -2,6 +2,8 @@ Keeper
 
 Keeper is a simple note-taking web application designed to help users organize their thoughts and ideas. With a clean and intuitive interface, Keeper allows users to quickly jot down notes and keep track of important information.
 
+The Keeper website was built using React, a JavaScript library for building user interfaces, and incorporates Material-UI components for styling. It employs React Hooks for state management, allowing for dynamic rendering of notes and interactive note creation functionality.
+
 Features:
 Note Creation: Users can easily create new notes by entering a title and content in the provided fields.
 
